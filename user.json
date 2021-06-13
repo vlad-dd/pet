@@ -1,0 +1,26 @@
+{
+   "user1":[
+   {"name":"Vlad"},
+   {"age":"19"},
+   {"city":"Lviv"}
+],
+"user2":[
+    {"name":"Vlad"},
+    {"age":"19"},
+    {"city":"Lviv"}
+ ],
+ "user3":[
+    {"name":"Vlad"},
+    {"age":"19"},
+    {"city":"Lviv"}
+ ],
+ "user4":[
+    {"name":"Vlad"},
+    {"age":"19"},
+    {"city":"Lviv"}
+ ],
+ "user5":[
+    {"name":"Vlad"},
+    {"age":"19"},
+    {"city":"Lviv"}
+ ]}
